@@ -1,6 +1,6 @@
 // Codeberg Logo
 
-image::https://shields.io/badge/arche__dev-1f232a?logo=codeberg&style=for-the-badge[link="https://codeberg.org/arche_dev"]
+image:https://shields.io/badge/arche__dev-1f232a?logo=codeberg&style=for-the-badge[link="https://codeberg.org/arche_dev"]
 
 // Thanks to https://stackoverflow.com/questions/34299474/using-an-image-as-a-link-in-asciidoc#34317851 ;) //
 
