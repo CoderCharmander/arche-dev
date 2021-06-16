@@ -1,6 +1,5 @@
-=== Hi there 👋
-
 ////
+=== Hi there 👋
 
 **Arche-dev/Arche-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +14,9 @@ Here are some ideas to get you started:
 * 😄 Pronouns: ...
 * ⚡ Fun fact: ...
 ////
+
+// Thanks to https://stackoverflow.com/questions/34299474/using-an-image-as-a-link-in-asciidoc#34317851 ;) //
+
+image::https://github-readme-stats.vercel.app/api?username=arche-dev&count_private=true&show_icons=true&title_color=eee&text_color=eee&icon_color=7289da&bg_color=1f232a&hide_border=true&cache_seconds=18000&locale=en[link="https://github.com/anuraghazra/github-readme-stats"]
+
+image::https://github-readme-stats.vercel.app/api/pin/?username=darkreader&repo=darkreader&title_color=eee&text_color=eee&icon_color=7289da&bg_color=1f232a&hide_border=true&cache_seconds=18000&locale=en[link="https://github.com/anuraghazra/github-readme-stats"]
