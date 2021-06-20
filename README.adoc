@@ -1,6 +1,7 @@
-// Codeberg Logo
+// "Social" badges
 
 image:https://shields.io/badge/arche__dev-1f232a?logo=codeberg&style=for-the-badge[link="https://codeberg.org/arche_dev"]
+image:https://shields.io/badge/Arche%230234-1f232a?logo=discord&style=for-the-badge[link="https://discord.com/app"]
 
 // Thanks to https://stackoverflow.com/questions/34299474/using-an-image-as-a-link-in-asciidoc#34317851 //
 
