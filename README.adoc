@@ -1,15 +1,16 @@
 == Hi There! image:https://github.com/twitter/twemoji/raw/gh-pages/svg/1f604.svg["😄"link="https://twemoji.twitter.com/"width=30,height=30]
 
 // Color Scheme:
-
 // Background: 1f232a
 // Accent: 7289da
 // Text: #eee
 
 // GitHub Stats
-image::https://github-readme-stats.vercel.app/api?username=arche-dev&count_private=true&show_icons=true&title_color=eee&text_color=eee&icon_color=7289da&bg_color=1f232a&hide_border=true&cache_seconds=18000&locale=en["GitHub Stats for arche-dev"link="https://github.com/anuraghazra/github-readme-stats"]
 
-image::https://github-readme-stats.vercel.app/api/pin/?username=darkreader&repo=darkreader&title_color=eee&text_color=eee&icon_color=7289da&bg_color=1f232a&hide_border=true&disable_animations=true&cache_seconds=18000&locale=en["GitHub Pin: darkreader/darkreader"link="https://github.com/darkreader/darkreader"]
+image:https://github-readme-stats.vercel.app/api?username=arche-dev&count_private=true&show_icons=true&title_color=eee&text_color=eee&icon_color=7289da&bg_color=1f232a&hide_border=true&cache_seconds=18000&locale=en["GitHub Stats for arche-dev"link="https://github.com/anuraghazra/github-readme-stats"]
+image:https://github-readme-stats.vercel.app/api/pin/?username=darkreader&repo=darkreader&title_color=eee&text_color=eee&icon_color=7289da&bg_color=1f232a&hide_border=true&disable_animations=true&cache_seconds=18000&locale=en["GitHub Pin: darkreader/darkreader"link="https://github.com/darkreader/darkreader"]
+
+image::https://github-readme-streak-stats.herokuapp.com?user=arche-dev&theme=dark&hide_border=true&background=1F232A&ring=7289DA["GitHub Streak Stats for arche-dev" link="https://github.com/DenverCoder1/github-readme-streak-stats"]
 
 === Social
 
