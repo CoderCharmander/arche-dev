@@ -18,3 +18,8 @@ image:https://shields.io/badge/CSS-1f232a?logo=css3&style=for-the-badge["CSS"]
 image:https://shields.io/badge/Javascript-1f232a?logo=javascript&style=for-the-badge["Javascript"]
 image:https://shields.io/badge/NodeJS-1f232a?logo=node.js&style=for-the-badge["NodeJS"]
 image:https://shields.io/badge/Python-1f232a?logo=python&style=for-the-badge["Python"]
+
+image:https://shields.io/badge/macOS-1f232a?logo=apple&style=for-the-badge["macOS"]
+image:https://shields.io/badge/Firefox-1f232a?logo=firefox&style=for-the-badge["Firefox"]
+image:https://shields.io/badge/uBlock_Origin-1f232a?logo=ublockorigin&style=for-the-badge["uBlock Origin"]
+image:https://shields.io/badge/Dark_Reader-1f232a?logo=darkreader&style=for-the-badge["Dark Reader"]
