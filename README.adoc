@@ -12,3 +12,9 @@ image::https://github-readme-stats.vercel.app/api?username=arche-dev&count_priva
 image::https://github-readme-stats.vercel.app/api/pin/?username=darkreader&repo=darkreader&title_color=eee&text_color=eee&icon_color=7289da&bg_color=1f232a&hide_border=true&disable_animations=true&cache_seconds=18000&locale=en["GitHub Pin: darkreader/darkreader"link="https://github.com/darkreader/darkreader"]
 
 === Languages and Tools
+
+image:https://shields.io/badge/HTML-1f232a?logo=html5&style=for-the-badge["HTML"]
+image:https://shields.io/badge/CSS-1f232a?logo=css3&style=for-the-badge["CSS"]
+image:https://shields.io/badge/Javascript-1f232a?logo=javascript&style=for-the-badge["Javascript"]
+image:https://shields.io/badge/NodeJS-1f232a?logo=node.js&style=for-the-badge["NodeJS"]
+image:https://shields.io/badge/Python-1f232a?logo=python&style=for-the-badge["Python"]
