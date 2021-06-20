@@ -1,10 +1,10 @@
-// "Social" badges
+// Thanks to https://stackoverflow.com/questions/34299474/using-an-image-as-a-link-in-asciidoc#34317851 //
 
+// "Social" badges
 image:https://shields.io/badge/arche__dev-1f232a?logo=codeberg&style=for-the-badge["Codeberg: arche_dev"link="https://codeberg.org/arche_dev"]
 image:https://shields.io/badge/Arche%230234-1f232a?logo=discord&style=for-the-badge["Discord: Arche#0234"link="https://discord.com/app"]
 
-// Thanks to https://stackoverflow.com/questions/34299474/using-an-image-as-a-link-in-asciidoc#34317851 //
-
+// GitHub Stats
 image::https://github-readme-stats.vercel.app/api?username=arche-dev&count_private=true&show_icons=true&title_color=eee&text_color=eee&icon_color=7289da&bg_color=1f232a&hide_border=true&cache_seconds=18000&locale=en[link="https://github.com/anuraghazra/github-readme-stats"]
 
 image::https://github-readme-stats.vercel.app/api/pin/?username=darkreader&repo=darkreader&title_color=eee&text_color=eee&icon_color=7289da&bg_color=1f232a&hide_border=true&disable_animations=true&cache_seconds=18000&locale=en[link="https://github.com/anuraghazra/github-readme-stats"]
