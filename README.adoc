@@ -1,3 +1,5 @@
+= Hi There! image:https://github.com/twitter/twemoji/raw/gh-pages/svg/1f604.svg["Grinning Face with Smiling Eyes",width=30,height=30link="https://twemoji.twitter.com/"]
+
 // Thanks to https://stackoverflow.com/questions/34299474/using-an-image-as-a-link-in-asciidoc#34317851 //
 
 // "Social" badges
