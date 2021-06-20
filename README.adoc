@@ -18,14 +18,14 @@ image:https://shields.io/badge/Arche%230234-1f232a?logo=discord&style=for-the-ba
 
 === Languages and Tools
 
-image:https://shields.io/badge/HTML-1f232a?logo=html5&style=for-the-badge["HTML"]
-image:https://shields.io/badge/CSS-1f232a?logo=css3&style=for-the-badge["CSS"]
-image:https://shields.io/badge/Javascript-1f232a?logo=javascript&style=for-the-badge["Javascript"]
-image:https://shields.io/badge/NodeJS-1f232a?logo=node.js&style=for-the-badge["NodeJS"]
-image:https://shields.io/badge/Python-1f232a?logo=python&style=for-the-badge["Python"]
+image:https://shields.io/badge/HTML-1f232a?logo=html5&style=for-the-badge["HTML"link="https://html.spec.whatwg.org/"]
+image:https://shields.io/badge/CSS-1f232a?logo=css3&style=for-the-badge["CSS"link="https://www.w3.org/TR/CSS/#css"]
+image:https://shields.io/badge/Javascript-1f232a?logo=javascript&style=for-the-badge["Javascript"link="https://en.wikipedia.org/wiki/JavaScript"]
+image:https://shields.io/badge/NodeJS-1f232a?logo=node.js&style=for-the-badge["NodeJS"link="https://nodejs.org/"]
+image:https://shields.io/badge/Python-1f232a?logo=python&style=for-the-badge["Python"link="https://www.python.org/"]
 
-image:https://shields.io/badge/macOS-1f232a?logo=apple&style=for-the-badge["macOS"]
-image:https://shields.io/badge/Firefox-1f232a?logo=firefox&style=for-the-badge["Firefox"]
-image:https://shields.io/badge/Neovim-1f232a?logo=neovim&style=for-the-badge["Neovim"]
-image:https://shields.io/badge/KeePassXC-1f232a?logo=keepassxc&style=for-the-badge["KeePassXC"]
-image:https://shields.io/badge/Blender-1f232a?logo=blender&style=for-the-badge["Blender"]
+image:https://shields.io/badge/macOS-1f232a?logo=apple&style=for-the-badge["macOS"link="https://www.apple.com/macos"]
+image:https://shields.io/badge/Firefox-1f232a?logo=firefox&style=for-the-badge["Firefox"link="https://www.mozilla.org/en-US/firefox/new/"]
+image:https://shields.io/badge/Neovim-1f232a?logo=neovim&style=for-the-badge["Neovim"link="https://neovim.io/"]
+image:https://shields.io/badge/KeePassXC-1f232a?logo=keepassxc&style=for-the-badge["KeePassXC"link="https://keepassxc.org/"]
+image:https://shields.io/badge/Blender-1f232a?logo=blender&style=for-the-badge["Blender"link="https://www.blender.org/"]
